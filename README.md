@@ -1,1 +1,1 @@
-https://misabellacs.github.io/paginacao/
+https://misabellacs.github.io/paginacao/paginacao.html
